@@ -65,7 +65,7 @@ const suspectsArray = [
     },
 ];
 
-// Rooms Array
+// Rooms Array 
 
 const roomsArray = [
     {
